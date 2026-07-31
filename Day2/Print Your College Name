@@ -1,0 +1,7 @@
+import java.util.*;
+public class PrintYourCollegeName{
+    public static void main(String[]args){
+        System.out.println("VSB ENGINEERING COLLEGE");
+        
+    }
+}
