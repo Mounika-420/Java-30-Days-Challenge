@@ -1,0 +1,9 @@
+import java.util.*;
+public class ConvertMetersintoCentimeters{
+    public static void main(String[]args){
+        Scanner sc=new Scanner(System.in);
+        int meter=sc.nextInt();
+        int centimeters=meter*100;
+        System.out.println("centimeters="+centimeters);
+    }
+}
